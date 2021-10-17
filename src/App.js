@@ -16,7 +16,7 @@ class App extends Component{
 
     this.frases = ['A vida trará coisas boas se tiveres paciência.',
       'Demonstre amor e alegria em todas as oportunidades e verás que a paz nasce dentro de você.',
-      'Não compense na ira o que lhe falta na razão.'];
+      'Não compense na ira o que lhe falta na razão.', 'JESUS CRISTO SALVA.'];
   }
 
   quebraBiscoito(){
